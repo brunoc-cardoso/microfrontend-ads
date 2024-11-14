@@ -8,8 +8,8 @@ function App() {
   console.log("[ad ]: ", ad);
 
   return (
-    <div className="">
-      <span>ads</span>
+    <div className="w-full">
+      <div className="w-full h-52 bg-lime-700 flex">ads</div>
     </div>
   );
 }
